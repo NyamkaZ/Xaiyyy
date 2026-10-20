@@ -15,9 +15,9 @@ const CONFIG = {
   wishBtn: "Хүслээ шивнээрэй ✨",
   wish1: "Нүдээ аниад хамгийн нандин хүслээ бодоорой. ✨",
   wish2: "Орчлон болон хайр нь чиний хүслийг сонсог. ♡",
-  wishDone: "Хүслээ хийлээ ♡",
-  replay: "Дахин эхнээс нь үзэх ↺",
-  musicFile: "Olly Murs - That Girl (Lyrics).mp3"
+  wishDone: "Хүслээ хэлээрэй ♡",
+  replay: "Дахиад үзэх үү ? миний хайяааа xD",
+  musicFile: "[ That Girl ] Lyrics - Olly Murs"
 };
 /* ================================ */
 
