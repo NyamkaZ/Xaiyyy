@@ -17,7 +17,7 @@ const CONFIG = {
   wish2: "Орчлон болон хайр нь чиний хүслийг сонсог. ♡",
   wishDone: "Хүслээ хэлээрэй ♡",
   replay: "Дахиад үзэх үү ? миний хайяааа xD",
-  musicFile: "[ That Girl ] Lyrics - Olly Murs"
+  musicFile: "[ That Girl ] Lyrics - Olly Murs.mp3"
 };
 /* ================================ */
 
